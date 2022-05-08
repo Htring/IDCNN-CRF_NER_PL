@@ -1,0 +1,1 @@
+{"0": "<unk>", "1": "<pad>", "2": "O", "3": "I-ORG", "4": "I-TITLE", "5": "B-TITLE", "6": "B-ORG", "7": "I-EDU", "8": "I-NAME", "9": "I-PRO", "10": "B-EDU", "11": "B-NAME", "12": "I-CONT", "13": "B-PRO", "14": "B-CONT", "15": "I-LOC", "16": "I-RACE", "17": "B-RACE", "18": "S-NAME", "19": "B-LOC", "20": "S-RACE", "21": "S-ORG"}
